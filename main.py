@@ -123,7 +123,9 @@ def recognize_digit(input_audio, input_sr, reference_audios, feature_types):
                 if student_id not in sum_distances_by_student1:  #added this for comparing the most similar voice (terrible code but works)
                     sum_distances_by_student1[student_id] = 0
                 sum_distances_by_student1[student_id] += distance
-            feature_results[(digit, feature_type)] = sum(distances)
+            if (digit, feature_type) not in feature_results:
+                feature_results[(digit, feature_type)] = 0
+            feature_results[(digit, feature_type)] += sum(distances)
         array_of_results.append(feature_results)
 
     return array_of_results, sum_distances_by_student1
@@ -181,7 +183,7 @@ def main():
             for result in sorted_results:
                 print(f"Digit: {result[0][0]}, Feature: {result[0][1]}, Distance: {result[1]}", file=file)
 
-            if sorted_results[0][1] > 0.3:
+            if sorted_results[0][1] > 0.2:
                 print("No valid digit recognized.", file=file)
                 continue
             recognized_digit = sorted_results[0][0][0]
