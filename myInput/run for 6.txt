@@ -1,0 +1,201 @@
+Doing processing for number  0.wav
+For feature type  mel
+Digit: 0, Feature: mel, Distance: 0.11329710956828068
+Digit: 2, Feature: mel, Distance: 0.13912319596741032
+Digit: 1, Feature: mel, Distance: 0.19192175661899982
+Digit: 9, Feature: mel, Distance: 0.21346575347358002
+Digit: 3, Feature: mel, Distance: 0.24124795987399816
+Digit: 5, Feature: mel, Distance: 0.248999493292295
+Digit: 4, Feature: mel, Distance: 0.29168296046978476
+Digit: 7, Feature: mel, Distance: 0.34804488542144696
+Digit: 8, Feature: mel, Distance: 0.3537644945406708
+Digit: 6, Feature: mel, Distance: 0.5339550262734853
+Recognized digit: 0
+For feature type  mfcc
+Digit: 0, Feature: mfcc, Distance: 0.10656348220842826
+Digit: 2, Feature: mfcc, Distance: 0.11103081891070035
+Digit: 1, Feature: mfcc, Distance: 0.1757966460828752
+Digit: 9, Feature: mfcc, Distance: 0.18526527489870398
+Digit: 5, Feature: mfcc, Distance: 0.2253464266331061
+Digit: 3, Feature: mfcc, Distance: 0.23280690849382668
+Digit: 4, Feature: mfcc, Distance: 0.27359265938374155
+Digit: 7, Feature: mfcc, Distance: 0.3255366134353103
+Digit: 8, Feature: mfcc, Distance: 0.32741131622036784
+Digit: 6, Feature: mfcc, Distance: 0.5297619699657585
+Recognized digit: 0
+Doing processing for number  1.wav
+For feature type  mel
+Digit: 1, Feature: mel, Distance: 0.11462382644195375
+Digit: 0, Feature: mel, Distance: 0.11731908053780632
+Digit: 2, Feature: mel, Distance: 0.15454088021914678
+Digit: 3, Feature: mel, Distance: 0.15688241650590815
+Digit: 9, Feature: mel, Distance: 0.1690412496414966
+Digit: 5, Feature: mel, Distance: 0.20151366448405084
+Digit: 4, Feature: mel, Distance: 0.22237795870672838
+Digit: 7, Feature: mel, Distance: 0.28536084417008767
+Digit: 8, Feature: mel, Distance: 0.3322179010328259
+Digit: 6, Feature: mel, Distance: 0.49847478403377093
+Recognized digit: 1
+For feature type  mfcc
+Digit: 1, Feature: mfcc, Distance: 0.08613327449048938
+Digit: 0, Feature: mfcc, Distance: 0.10564376836015654
+Digit: 2, Feature: mfcc, Distance: 0.1428357266235502
+Digit: 9, Feature: mfcc, Distance: 0.1468717177951193
+Digit: 3, Feature: mfcc, Distance: 0.15580970483837958
+Digit: 5, Feature: mfcc, Distance: 0.19154431419698548
+Digit: 4, Feature: mfcc, Distance: 0.20845145988264419
+Digit: 7, Feature: mfcc, Distance: 0.26339757208471326
+Digit: 8, Feature: mfcc, Distance: 0.32288046665196524
+Digit: 6, Feature: mfcc, Distance: 0.4957734691389651
+Recognized digit: 1
+Doing processing for number  2.wav
+For feature type  mel
+Digit: 2, Feature: mel, Distance: 0.0766829510441785
+Digit: 0, Feature: mel, Distance: 0.11408675864502091
+Digit: 1, Feature: mel, Distance: 0.18220085086273274
+Digit: 9, Feature: mel, Distance: 0.21753308400068583
+Digit: 3, Feature: mel, Distance: 0.26360101086249016
+Digit: 7, Feature: mel, Distance: 0.2677880485238655
+Digit: 5, Feature: mel, Distance: 0.285868239683152
+Digit: 8, Feature: mel, Distance: 0.28819586630544813
+Digit: 4, Feature: mel, Distance: 0.3032063326643959
+Digit: 6, Feature: mel, Distance: 0.524574649138816
+Recognized digit: 2
+For feature type  mfcc
+Digit: 2, Feature: mfcc, Distance: 0.05849254418272595
+Digit: 0, Feature: mfcc, Distance: 0.09498925008861206
+Digit: 1, Feature: mfcc, Distance: 0.16435763035908577
+Digit: 9, Feature: mfcc, Distance: 0.1952155268704485
+Digit: 7, Feature: mfcc, Distance: 0.25183955558685645
+Digit: 3, Feature: mfcc, Distance: 0.25905359886139145
+Digit: 8, Feature: mfcc, Distance: 0.264116713284027
+Digit: 5, Feature: mfcc, Distance: 0.2695937641906236
+Digit: 4, Feature: mfcc, Distance: 0.29467636882299614
+Digit: 6, Feature: mfcc, Distance: 0.5096400766419015
+Recognized digit: 2
+Doing processing for number  3.wav
+For feature type  mel
+Digit: 3, Feature: mel, Distance: 0.12188626168501376
+Digit: 5, Feature: mel, Distance: 0.20775933041442013
+Digit: 4, Feature: mel, Distance: 0.2664340184301211
+Digit: 1, Feature: mel, Distance: 0.3028294798176712
+Digit: 9, Feature: mel, Distance: 0.3051698103205505
+Digit: 0, Feature: mel, Distance: 0.33036984298981253
+Digit: 2, Feature: mel, Distance: 0.4206954314320268
+Digit: 7, Feature: mel, Distance: 0.4374214529617743
+Digit: 6, Feature: mel, Distance: 0.5213887460023042
+Digit: 8, Feature: mel, Distance: 0.5659232900773659
+Recognized digit: 3
+For feature type  mfcc
+Digit: 3, Feature: mfcc, Distance: 0.11233029373680235
+Digit: 5, Feature: mfcc, Distance: 0.204104768396183
+Digit: 4, Feature: mfcc, Distance: 0.268662997173823
+Digit: 1, Feature: mfcc, Distance: 0.3008152831479277
+Digit: 9, Feature: mfcc, Distance: 0.3050256821462082
+Digit: 0, Feature: mfcc, Distance: 0.3554252786627577
+Digit: 2, Feature: mfcc, Distance: 0.41780690384583696
+Digit: 7, Feature: mfcc, Distance: 0.4460384707141768
+Digit: 6, Feature: mfcc, Distance: 0.5247818145144965
+Digit: 8, Feature: mfcc, Distance: 0.6013083899764269
+Recognized digit: 3
+Doing processing for number  4.wav
+For feature type  mel
+Digit: 4, Feature: mel, Distance: 0.11996210270528138
+Digit: 3, Feature: mel, Distance: 0.13128794013121436
+Digit: 5, Feature: mel, Distance: 0.15939832735087311
+Digit: 1, Feature: mel, Distance: 0.18084568004856602
+Digit: 9, Feature: mel, Distance: 0.18940514979805448
+Digit: 0, Feature: mel, Distance: 0.23486641813739254
+Digit: 7, Feature: mel, Distance: 0.24302981977604593
+Digit: 2, Feature: mel, Distance: 0.2966748924625531
+Digit: 6, Feature: mel, Distance: 0.29728194659753465
+Digit: 8, Feature: mel, Distance: 0.3047026439337904
+Recognized digit: 4
+For feature type  mfcc
+Digit: 4, Feature: mfcc, Distance: 0.14192491162464063
+Digit: 3, Feature: mfcc, Distance: 0.15744403736385654
+Digit: 5, Feature: mfcc, Distance: 0.20076073375694312
+Digit: 1, Feature: mfcc, Distance: 0.2514767699741512
+Digit: 9, Feature: mfcc, Distance: 0.25312152850735875
+Digit: 7, Feature: mfcc, Distance: 0.35031372521361515
+Digit: 0, Feature: mfcc, Distance: 0.35982928059951014
+Digit: 2, Feature: mfcc, Distance: 0.3723593306187837
+Digit: 6, Feature: mfcc, Distance: 0.450289436583605
+Digit: 8, Feature: mfcc, Distance: 0.4670781135074748
+Recognized digit: 4
+Doing processing for number  5.wav
+For feature type  mel
+Digit: 5, Feature: mel, Distance: 0.1350643733889949
+Digit: 3, Feature: mel, Distance: 0.1671078274272188
+Digit: 9, Feature: mel, Distance: 0.23119728630119737
+Digit: 4, Feature: mel, Distance: 0.28212984799962204
+Digit: 1, Feature: mel, Distance: 0.29496055254490045
+Digit: 0, Feature: mel, Distance: 0.32181318509426693
+Digit: 2, Feature: mel, Distance: 0.33930516861279314
+Digit: 7, Feature: mel, Distance: 0.4470470764160452
+Digit: 6, Feature: mel, Distance: 0.4955652686801944
+Digit: 8, Feature: mel, Distance: 0.5166631231477979
+Recognized digit: 5
+For feature type  mfcc
+Digit: 5, Feature: mfcc, Distance: 0.13754426607598444
+Digit: 3, Feature: mfcc, Distance: 0.1644094043945239
+Digit: 9, Feature: mfcc, Distance: 0.23173802437096302
+Digit: 4, Feature: mfcc, Distance: 0.29328615151307774
+Digit: 1, Feature: mfcc, Distance: 0.3022435497294292
+Digit: 0, Feature: mfcc, Distance: 0.3386080727568724
+Digit: 2, Feature: mfcc, Distance: 0.3545531240436875
+Digit: 7, Feature: mfcc, Distance: 0.46484729080924975
+Digit: 6, Feature: mfcc, Distance: 0.5204317733392849
+Digit: 8, Feature: mfcc, Distance: 0.5564485092119875
+Recognized digit: 5
+Doing processing for number  6.wav
+For feature type  mel
+Digit: 6, Feature: mel, Distance: 0.27595067934247675
+Digit: 5, Feature: mel, Distance: 0.35577239844001257
+Digit: 3, Feature: mel, Distance: 0.38095093753398995
+Digit: 4, Feature: mel, Distance: 0.389701232115267
+Digit: 9, Feature: mel, Distance: 0.467445182293872
+Digit: 1, Feature: mel, Distance: 0.5268176870312498
+Digit: 7, Feature: mel, Distance: 0.5479919231690538
+Digit: 8, Feature: mel, Distance: 0.5740112538968043
+Digit: 2, Feature: mel, Distance: 0.5744811282066408
+Digit: 0, Feature: mel, Distance: 0.6265911031767858
+Recognized digit: 6
+For feature type  mfcc
+Digit: 6, Feature: mfcc, Distance: 0.23212668739585401
+Digit: 5, Feature: mfcc, Distance: 0.3285763552009923
+Digit: 4, Feature: mfcc, Distance: 0.3515112927349657
+Digit: 3, Feature: mfcc, Distance: 0.35551403262187176
+Digit: 9, Feature: mfcc, Distance: 0.4385104043838633
+Digit: 1, Feature: mfcc, Distance: 0.4952403018476519
+Digit: 7, Feature: mfcc, Distance: 0.5300866888074827
+Digit: 8, Feature: mfcc, Distance: 0.5759943750167409
+Digit: 2, Feature: mfcc, Distance: 0.5825905681785399
+Digit: 0, Feature: mfcc, Distance: 0.6143105356184985
+Recognized digit: 6
+The student with the most similar speech to mine is :  106 21.wav
+Doing processing for number  none
+For feature type  mel
+Digit: 0, Feature: mel, Distance: 0.12038818726760687
+Digit: 2, Feature: mel, Distance: 0.12343654670764019
+Digit: 1, Feature: mel, Distance: 0.144035267240591
+Digit: 9, Feature: mel, Distance: 0.1509608570267448
+Digit: 3, Feature: mel, Distance: 0.21323403666814272
+Digit: 5, Feature: mel, Distance: 0.22552140814433314
+Digit: 8, Feature: mel, Distance: 0.23735788370703367
+Digit: 7, Feature: mel, Distance: 0.23993822186463454
+Digit: 4, Feature: mel, Distance: 0.2399508668810343
+Digit: 6, Feature: mel, Distance: 0.49492195759495927
+Recognized digit: 0
+For feature type  mfcc
+Digit: 2, Feature: mfcc, Distance: 0.1258783748378965
+Digit: 0, Feature: mfcc, Distance: 0.13282323224805415
+Digit: 1, Feature: mfcc, Distance: 0.14537211816810713
+Digit: 9, Feature: mfcc, Distance: 0.1535440421657751
+Digit: 3, Feature: mfcc, Distance: 0.23698289194115085
+Digit: 8, Feature: mfcc, Distance: 0.23906480265692592
+Digit: 5, Feature: mfcc, Distance: 0.2413382167500869
+Digit: 7, Feature: mfcc, Distance: 0.24467476118580653
+Digit: 4, Feature: mfcc, Distance: 0.2531093297645455
+Digit: 6, Feature: mfcc, Distance: 0.5245536908340666
+Recognized digit: 2
